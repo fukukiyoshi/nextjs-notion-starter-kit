@@ -9,17 +9,14 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
-  domain: 'chaodit.com',
-  author: 'Chaodi Tang',
+  name: 'Fruit Candy Blog World',
+  domain: 'fruitcandy.space',
+  author: 'Fruit Candy',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'chaodit',
-  github: 'chaodit',
-  linkedin: 'Chao Di Tang',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
